@@ -129,6 +129,9 @@ pre{
 .answer .tips h4{
   color:red;
 }
+.answer .tips1 h4{
+  color:black;
+}
 
 .answer .tips img{
   margin-top: 30px;
